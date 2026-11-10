@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-1 · Styling: Hello World
 
-**Name: Jack Burdette** YOUR NAME
-**GU username: jburdette** YOUR-GU-USERNAME
+**Name:** Jack Burdette
+**GU username:** jburdette
 
 My live page: https://jackburdette17.github.io/bmis235-html-1/
 
